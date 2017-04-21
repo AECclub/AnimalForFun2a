@@ -5,7 +5,7 @@
 
 
     <dimen name="my_image">150dp</dimen>
-    <dimen name="my_marjn">150dp</dimen>
+    <dimen name="my_margin">15dp</dimen>
     <dimen name="my_iconvolumn">40dp</dimen>
 
 
